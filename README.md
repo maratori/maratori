@@ -17,3 +17,11 @@ Backend developer, fan of linters and open-source
 [linkedin-link]: https://www.linkedin.com/in/marat-reymers
 [gmail-img]: https://img.shields.io/badge/gmail-marat.maratori-EA4335?style=for-the-badge&logo=gmail
 [gmail-link]: mailto:marat.maratori+github@gmail.com
+
+
+## Author
+
+- [testpackage](https://github.com/maratori/testpackage) ![GitHub Repo stars](https://img.shields.io/github/stars/maratori/testpackage?style=social) - Golang linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run/))
+- [pt](https://github.com/maratori/pt) - Small golang library that helps you to run Parallel Tests
+<!-- - [idescriptive](https://github.com/maratori/idescriptive) - Golang linter that reports interfaces without named arguments (integrated into [golangci-lint](https://golangci-lint.run/)) -->
+<!-- - [async](https://github.com/maratori/async) - Small golang library to enqueue background jobs from domain logic -->

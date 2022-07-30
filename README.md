@@ -1,53 +1,41 @@
-# 👋 Hi, I'm Marat Reymers
+### 👋 Hi, I'm Marat Reymers
 
-Backend developer, fan of linters and open-source
+Backend developer, fan of linters, QA and open-source
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maratori&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maratori&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+###### Contacts
 
-## Contacts
+[![Telegram][Telegram-img]][Telegram-link]
+[![LinkedIn][LinkedIn-img]][LinkedIn-link]
+[![Gmail][Gmail-img]][Gmail-link]
 
-[![Telegram][telegram-img]][telegram-link]
-[![LinkedIn][linkedin-img]][linkedin-link]
-[![Gmail][gmail-img]][gmail-link]
-
-[telegram-img]: https://img.shields.io/badge/telegram-maratori-54A9EB.svg?style=for-the-badge&logo=telegram
-[telegram-link]: https://t.me/maratori
-[linkedin-img]: https://img.shields.io/badge/linkedin-marat%20reymers-0A66C2?style=for-the-badge&logo=linkedin
-[linkedin-link]: https://www.linkedin.com/in/marat-reymers
-[gmail-img]: https://img.shields.io/badge/gmail-marat.maratori-EA4335?style=for-the-badge&logo=gmail
-[gmail-link]: mailto:marat.maratori+github@gmail.com
+<!-- https://badges.pages.dev -->
+[Telegram-img]: https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge
+[Telegram-link]: https://t.me/maratori
+[LinkedIn-img]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge
+[LinkedIn-link]: https://www.linkedin.com/in/marat-reymers
+[Gmail-img]: https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge
+[Gmail-link]: mailto:marat.maratori+github@gmail.com
 
 
 ## Author
 
-### ✦ [testpackage](https://github.com/maratori/testpackage)
-
-![Stars](https://img.shields.io/github/stars/maratori/testpackage?style=social)
-![Golang](https://img.shields.io/badge/language-go-00ADD8)
-[![CI](https://github.com/maratori/testpackage/actions/workflows/ci.yaml/badge.svg)](https://github.com/maratori/testpackage/actions/workflows/ci.yaml)
-[![Codecov](https://codecov.io/gh/maratori/testpackage/branch/main/graph/badge.svg?token=Pa334H8xEh)](https://codecov.io/gh/maratori/testpackage)
-[![License](https://img.shields.io/github/license/maratori/testpackage.svg)](https://github.com/maratori/testpackage/blob/main/LICENSE)
+### [![testpackage](https://img.shields.io/badge/maratori%2Ftestpackage-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/maratori/testpackage) ![Stars](https://img.shields.io/github/stars/maratori/testpackage?style=flat-square)
 
 Golang linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run/))
 
 <!--
-### ✦ [idescriptive](https://github.com/maratori/idescriptive)
+### [![idescriptive](https://img.shields.io/badge/maratori%2Fidescriptive-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/maratori/idescriptive)
 Golang linter that reports interfaces without named arguments (integrated into [golangci-lint](https://golangci-lint.run/))
 -->
 
 <!--
-### ✦ [async](https://github.com/maratori/async)
+### [![async](https://img.shields.io/badge/maratori%2Fasync-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/maratori/async)
 Small golang library to enqueue background jobs from domain logic
 -->
 
-### ✦ [pt](https://github.com/maratori/pt)
-
-<!-- ![Stars](https://img.shields.io/github/stars/maratori/pt?style=social) -->
-![Golang](https://img.shields.io/badge/language-go-00ADD8)
-[![Build Status](https://travis-ci.com/maratori/pt.svg?branch=master)](https://travis-ci.com/maratori/pt)
-[![Codecov](https://codecov.io/gh/maratori/pt/branch/master/graph/badge.svg)](https://codecov.io/gh/maratori/pt)
-[![License](https://img.shields.io/github/license/maratori/pt.svg)](https://github.com/maratori/pt/blob/master/LICENSE)
+### [![pt](https://img.shields.io/badge/maratori%2Fpt-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/maratori/pt)
 
 Small golang library that helps you to run Parallel Tests
 

@@ -1,6 +1,8 @@
-### 👋 Hi, I'm Marat Reymers
+### Hi there 👋
 
-Backend developer, fan of linters, QA and open-source
+I am Marat Reymers, software engineer.  
+Fanatic of linters, QA and open-source.  
+Also, I love debates about technology.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=maratori&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -26,14 +26,14 @@ Also, I love debates about technology.
 
 ###### 🥷 Languages
 
-![Go][Go-img]
-![Python][Python-img]
-![Java][Java-img]
-![C#][C#-img]
-![JS][JS-img]
-![HTML][HTML-img]
-![CSS][CSS-img]
-![Wolfram Mathematica][Wolfram Mathematica-img]
+[![Go][Go-img]][Go-url]
+[![Python][Python-img]][Python-url]
+[![Java][Java-img]][Java-url]
+[![C#][C#-img]][C#-url]
+[![JS][JS-img]][JS-url]
+[![HTML][HTML-img]][HTML-url]
+[![CSS][CSS-img]][CSS-url]
+[![Wolfram Mathematica][Wolfram Mathematica-img]][Wolfram Mathematica-url]
 
 <!-- https://badges.pages.dev -->
 [Go-img]:                  https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge
@@ -45,24 +45,33 @@ Also, I love debates about technology.
 [CSS-img]:                 https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge
 [Wolfram Mathematica-img]: https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=for-the-badge
 
+[Go-url]:                  https://go.dev/
+[Python-url]:              https://python.org/
+[Java-url]:                https://java.com/
+[C#-url]:                  https://docs.microsoft.com/dotnet/csharp/
+[JS-url]:                  https://wikipedia.org/wiki/JavaScript
+[HTML-url]:                https://w3.org/html/
+[CSS-url]:                 https://w3.org/CSS/
+[Wolfram Mathematica-url]: https://wolfram.com/mathematica/
+
 ###### 🛠 Other (alphabetical order)
 
-![Dependabot][Dependabot-img]
-![Docker][Docker-img]
-![Flake8][Flake8-img]
-![GitHub Actions][GitHub Actions-img]
-![Golangci-lint][Golangci-lint-img]
-![Grafana][Grafana-img]
-![JUnit5][JUnit5-img]
-![MyPy][MyPy-img]
-![NumPy][NumPy-img]
-![Pandas][Pandas-img]
-![Playwright][Playwright-img]
-![PostgreSQL][PostgreSQL-img]
-![Protobuf][Protobuf-img]
-![Pytest][Pytest-img]
-![RabbitMQ][RabbitMQ-img]
-![Selenium][Selenium-img]
+[![Dependabot][Dependabot-img]][Dependabot-url]
+[![Docker][Docker-img]][Docker-url]
+[![Flake8][Flake8-img]][Flake8-url]
+[![GitHub Actions][GitHub Actions-img]][GitHub Actions-url]
+[![Golangci-lint][Golangci-lint-img]][Golangci-lint-url]
+[![Grafana][Grafana-img]][Grafana-url]
+[![JUnit5][JUnit5-img]][JUnit5-url]
+[![MyPy][MyPy-img]][MyPy-url]
+[![NumPy][NumPy-img]][NumPy-url]
+[![Pandas][Pandas-img]][Pandas-url]
+[![Playwright][Playwright-img]][Playwright-url]
+[![PostgreSQL][PostgreSQL-img]][PostgreSQL-url]
+[![Protobuf][Protobuf-img]][Protobuf-url]
+[![Pytest][Pytest-img]][Pytest-url]
+[![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
+[![Selenium][Selenium-img]][Selenium-url]
 
 <!-- https://badges.pages.dev -->
 [Dependabot-img]:     https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff&style=for-the-badge
@@ -81,6 +90,23 @@ Also, I love debates about technology.
 [Pytest-img]:         https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge
 [RabbitMQ-img]:       https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge
 [Selenium-img]:       https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
+
+[Dependabot-url]:     https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
+[Docker-url]:         https://docker.com/
+[Flake8-url]:         https://flake8.pycqa.org/
+[GitHub Actions-url]: https://github.com/features/actions
+[Golangci-lint-url]:  https://golangci-lint.run/
+[Grafana-url]:        https://grafana.com/
+[JUnit5-url]:         https://junit.org/
+[MyPy-url]:           https://mypy.readthedocs.org/
+[NumPy-url]:          https://numpy.org/
+[Pandas-url]:         https://pandas.pydata.org/
+[Playwright-url]:     https://playwright.dev/
+[PostgreSQL-url]:     https://postgresql.org/
+[Protobuf-url]:       https://developers.google.com/protocol-buffers
+[Pytest-url]:         https://pytest.org/
+[RabbitMQ-url]:       https://rabbitmq.com/
+[Selenium-url]:       https://selenium.dev/
 
 
 ## 🕶️ Author

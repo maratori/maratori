@@ -6,7 +6,7 @@ Also, I love debates about technology.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=maratori&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-###### Contacts
+###### 💬 Contacts
 
 [![Telegram][Telegram-img]][Telegram-link]
 [![LinkedIn][LinkedIn-img]][LinkedIn-link]
@@ -20,7 +20,7 @@ Also, I love debates about technology.
 [Gmail-img]: https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge
 [Gmail-link]: mailto:marat.maratori+github@gmail.com
 
-###### Languages
+###### 🥷 Languages
 
 <!-- https://badges.pages.dev -->
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
@@ -32,7 +32,7 @@ Also, I love debates about technology.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=for-the-badge)
 
-###### Other (alphabetical order)
+###### 🛠 Other (alphabetical order)
 
 <!-- https://badges.pages.dev -->
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff&style=for-the-badge)
@@ -53,7 +53,7 @@ Also, I love debates about technology.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
 
 
-## Author
+## 🕶️ Author
 
 ### [![testpackage](https://img.shields.io/badge/maratori%2Ftestpackage-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/maratori/testpackage) ![Stars](https://img.shields.io/github/stars/maratori/testpackage?style=flat-square)
 
@@ -74,7 +74,7 @@ Small golang library to enqueue background jobs from domain logic
 Small golang library that helps you to run Parallel Tests
 
 
-## Useful gists
+## 🩼 Useful gists
 
 - [.golangci.yml](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test

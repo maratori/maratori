@@ -152,7 +152,7 @@ Small golang library that helps you to run Parallel Tests
 
 ## 🩼 Useful gists
 
-- [.golangci.yml](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
+- :star: [.golangci.yml](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test
 - [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in golang
 - [config_reader.go](https://gist.github.com/maratori/d469f844eb91bdf1efa5d6c25687d792) - Config reader with the best API for golang

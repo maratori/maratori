@@ -133,13 +133,13 @@ Golang linter that encourages to use a separate `_test` package (integrated into
 [testableexamples-img]:       https://img.shields.io/badge/maratori%2Ftestableexamples-000?logo=github&logoColor=fff&style=for-the-badge
 [testableexamples-url]:       https://github.com/maratori/testableexamples
 
-Golang linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://golangci-lint.run/))
+Golang linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
 
 <!--
 ### [![idescriptive]][idescriptive-url]
 [idescriptive-img]: https://img.shields.io/badge/maratori%2Fidescriptive-000?logo=github&logoColor=fff&style=for-the-badge
 [idescriptive-url]: https://github.com/maratori/idescriptive
-Golang linter that reports interfaces without named arguments (integrated into [golangci-lint](https://golangci-lint.run/))
+Golang linter that reports interfaces without named arguments (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
 -->
 
 <!--

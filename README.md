@@ -126,27 +126,27 @@ Also, I love debates about technology.
 [testpackage-stars-img]: https://img.shields.io/github/stars/maratori/testpackage?style=flat-square
 [testpackage-url]:       https://github.com/maratori/testpackage
 
-Golang linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run/))
+Go linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run/))
 
 ### [![testableexamples][testableexamples-img]][testableexamples-url]
 
 [testableexamples-img]:       https://img.shields.io/badge/maratori%2Ftestableexamples-000?logo=github&logoColor=fff&style=for-the-badge
 [testableexamples-url]:       https://github.com/maratori/testableexamples
 
-Golang linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
+Go linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
 
 <!--
 ### [![idescriptive]][idescriptive-url]
 [idescriptive-img]: https://img.shields.io/badge/maratori%2Fidescriptive-000?logo=github&logoColor=fff&style=for-the-badge
 [idescriptive-url]: https://github.com/maratori/idescriptive
-Golang linter that reports interfaces without named arguments (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
+Go linter that reports interfaces without named arguments (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
 -->
 
 <!--
 ### [![async][async-img]][async-url]
 [async-img]: https://img.shields.io/badge/maratori%2Fasync-000?logo=github&logoColor=fff&style=for-the-badge
 [async-url]: https://github.com/maratori/async
-Small golang library to enqueue background jobs from domain logic
+Small Go library to enqueue background jobs from domain logic
 -->
 
 ### [![pt][pt-img]][pt-url]
@@ -154,17 +154,18 @@ Small golang library to enqueue background jobs from domain logic
 [pt-img]: https://img.shields.io/badge/maratori%2Fpt-000?logo=github&logoColor=fff&style=for-the-badge
 [pt-url]: https://github.com/maratori/pt
 
-Small golang library that helps you to run Parallel Tests
+Small Go library that helps you to run Parallel Tests
 
 
 ## 🩼 Useful gists
 
 - :star: [.golangci.yml](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test
-- [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in golang
-- [config_reader.go](https://gist.github.com/maratori/d469f844eb91bdf1efa5d6c25687d792) - Config reader with the best API for golang
+- [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in Go
+- [decimal.go](https://gist.github.com/maratori/15cf2a41d52ac6bd27dfced7922f0d28) - Function to normalize [decimal](https://github.com/shopspring/decimal) value, see [#280](https://github.com/shopspring/decimal/issues/280)
+- [config_reader.go](https://gist.github.com/maratori/d469f844eb91bdf1efa5d6c25687d792) - Config reader with the best API for Go
 - [testmain_test.go](https://gist.github.com/maratori/425facf6450dad263ed990dbeb25bca6) - TestMain to print logs (colapsed) if test failed
-- [test_clock.go](https://gist.github.com/maratori/02bbdf2d4cd5310b8b78d36f446e4452) - Mockable time (clock) for golang
-- [golang-mocks.md](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of golang mocking libraries
+- [test_clock.go](https://gist.github.com/maratori/02bbdf2d4cd5310b8b78d36f446e4452) - Mockable time (clock) for Go
+- [golang-mocks.md](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of Go mocking libraries
 - [wait_for.go](https://gist.github.com/maratori/010bfbf05639aa3a5ba832cdd75320ec) - `func WaitFor()` the better alternative for `assert.Eventually()`
-- [wait_for.py](https://gist.github.com/maratori/118d1018893b367be8d35ccda996d3af) - Helper function for python tests to get rid of `time.sleep`
+- [wait_for.py](https://gist.github.com/maratori/118d1018893b367be8d35ccda996d3af) - Helper function for Python tests to get rid of `time.sleep`

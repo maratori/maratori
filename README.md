@@ -170,13 +170,13 @@ Small Go library that helps you to run Parallel Tests
 
 ## 🩼 Useful gists
 
-- :star: [.golangci.yml](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
+- [.golangci.yml ![Stars](https://img.shields.io/github/stars/gists/47a4d00457a92aa426dbd48a18776322?label=stars&style=flat-square)](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test
 - [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in Go
 - [decimal.go](https://gist.github.com/maratori/15cf2a41d52ac6bd27dfced7922f0d28) - Function to normalize [decimal](https://github.com/shopspring/decimal) value, see [#280](https://github.com/shopspring/decimal/issues/280)
 - [config_reader.go](https://gist.github.com/maratori/d469f844eb91bdf1efa5d6c25687d792) - Config reader with the best API for Go
 - [testmain_test.go](https://gist.github.com/maratori/425facf6450dad263ed990dbeb25bca6) - TestMain to print logs (colapsed) if test failed
 - [test_clock.go](https://gist.github.com/maratori/02bbdf2d4cd5310b8b78d36f446e4452) - Mockable time (clock) for Go
-- [golang-mocks.md](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of Go mocking libraries
+- [golang-mocks.md ![Stars](https://img.shields.io/github/stars/gists/8772fe158ff705ca543a0620863977c2?label=stars&style=flat-square)](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of Go mocking libraries
 - [wait_for.go](https://gist.github.com/maratori/010bfbf05639aa3a5ba832cdd75320ec) - `func WaitFor()` the better alternative for `assert.Eventually()`
 - [wait_for.py](https://gist.github.com/maratori/118d1018893b367be8d35ccda996d3af) - Helper function for Python tests to get rid of `time.sleep`

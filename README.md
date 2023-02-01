@@ -160,12 +160,12 @@ Go linter that reports interfaces without named arguments (integrated into [gola
 Small Go library to enqueue background jobs from domain logic
 -->
 
-### [![pt][pt-img]][pt-url]
+### [![changroup][changroup-img]][changroup-url]
 
-[pt-img]: https://img.shields.io/badge/maratori%2Fpt-000?logo=github&logoColor=fff&style=for-the-badge
-[pt-url]: https://github.com/maratori/pt
+[changroup-img]: https://img.shields.io/badge/maratori%2Fchangroup-000?logo=github&logoColor=fff&style=for-the-badge
+[changroup-url]: https://github.com/maratori/changroup
 
-Small Go library that helps you to run Parallel Tests
+Go library to create a group of channels (publish/subscribe pattern)
 
 
 ## 🩼 Useful gists

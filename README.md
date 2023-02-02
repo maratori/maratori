@@ -167,6 +167,13 @@ Small Go library to enqueue background jobs from domain logic
 
 Go library to create a group of channels (publish/subscribe pattern)
 
+### [![errors][errors-img]][errors-url]
+
+[errors-img]: https://img.shields.io/badge/maratori%2Ferrors-000?logo=github&logoColor=fff&style=for-the-badge
+[errors-url]: https://github.com/maratori/errors
+
+Go library to construct errors with fields for structured logging
+
 
 ## 🩼 Useful gists
 

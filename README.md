@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Marat Reymers, software engineer.  
-Fanatic of linters, QA and open-source.  
+I am Marat Reymers, a software engineer.  
+Fanatic of linters, QA, and open-source.  
 Also, I love debates about technology.
 
 [![GitHub stats][GitHub stats-img]][GitHub stats-url]

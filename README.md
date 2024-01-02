@@ -75,6 +75,7 @@ Also, I love debates about technology.
 [![Protobuf][Protobuf-img]][Protobuf-url]
 [![Pytest][Pytest-img]][Pytest-url]
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
+[![Terraform][Terraform-img]][Terraform-url]
 [![Selenium][Selenium-img]][Selenium-url]
 
 
@@ -98,6 +99,7 @@ Also, I love debates about technology.
 [Protobuf-img]:       https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxwYXRoIGQ9Ik0xNy40OTMgODIuNDk4TDk5Ljk5OSAyOC4zNHYzNS4wMDNsLTgyLjUwNiA1NC4xNTh6IiBmaWxsPSIjZmY1NzIyIi8+PHBhdGggZD0iTTE3LjQ5MyAxMTcuNTAxbDgyLjUwNiA1NC4xNTh2LTM1LjAwM0wxNy40OTMgODIuNDk4eiIgZmlsbD0iIzAzYTlmNCIvPjxwYXRoIGQ9Ik0xODIuNTA2IDExNy41MDFMMTAwIDE3MS42NnYtMzUuMDAzbDgyLjUwNi01NC4xNTh6IiBmaWxsPSIjZmZlYjNiIi8+PHBhdGggZD0iTTE4Mi41MDYgODIuNDk4TDEwMCAyOC4zNHYzNS4wMDNsODIuNTA2IDU0LjE1OHoiIGZpbGw9IiMwMGU2NzYiLz48L3N2Zz4=
 [Pytest-img]:         https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge
 [RabbitMQ-img]:       https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge
+[Terraform-img]:      https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge
 [Selenium-img]:       https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
 
 [Bash-url]:           https://gnu.org/software/bash/
@@ -119,6 +121,7 @@ Also, I love debates about technology.
 [Protobuf-url]:       https://developers.google.com/protocol-buffers
 [Pytest-url]:         https://pytest.org/
 [RabbitMQ-url]:       https://rabbitmq.com/
+[Terraform-url]:      https://terraform.io/
 [Selenium-url]:       https://selenium.dev/
 
 

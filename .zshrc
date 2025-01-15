@@ -6,6 +6,7 @@ if [ ! -d "$ZAP_HOME" ]; then
 fi
 source "$ZAP_HOME/zap.zsh"
 unset ZAP_HOME
+unset ZAP_DIR
 
 # Add zsh plugins
 plug zsh-users/zsh-syntax-highlighting
@@ -59,10 +60,9 @@ source <(fzf --zsh)
 
 # Enable Oh-My-Posh prompt
 command -v oh-my-posh >/dev/null 2>&1 || brew install oh-my-posh
-if [ "$TERM_PROGRAM" != "Apple_Terminal" ]; then
-  #eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/robbyrussell.omp.json)"
-  eval "$(oh-my-posh init zsh --config /Users/marat-reymers/Downloads/omp.yaml)"
-fi
+export POSH_THEME="${XDG_DATA_HOME:-$HOME/.local/share}/omp.yml"
+[ ! -f "$POSH_THEME" ] && curl -o "$POSH_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
+[ "$TERM_PROGRAM" != "Apple_Terminal" ] && eval "$(oh-my-posh init zsh)"
 
 # Configure zsh-auto-notify
 AUTO_NOTIFY_THRESHOLD=30

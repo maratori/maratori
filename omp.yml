@@ -1,0 +1,57 @@
+# This is my oh-my-posh theme
+version: 3
+final_space: true
+blocks:
+  - type: prompt
+    alignment: left
+    newline: false
+    segments:
+      - type: path
+        style: plain
+        foreground: cyan
+        template: "{{ .Path }}"
+        properties:
+          style: full
+      - type: git
+        style: diamond
+        leading_diamond: " "
+        foreground: lightBlue
+        template: >-
+          {{- if .Detached -}}
+            {{ trunc 7 .Commit.Sha }}
+          {{- else -}}
+            {{ .HEAD }}
+          {{- end -}}
+          {{- if or .Behind .Ahead -}}
+            {{- print " " -}}
+            <lightMagenta>
+              {{- if .Behind -}} ↓ {{- end -}}
+              {{- if .Ahead  -}} ↑ {{- end -}}
+            </>
+          {{- end -}}
+          {{- if or .Working.Changed .Staging.Changed -}}
+            {{- print " " -}}
+            <yellow><b>*</b></>
+          {{- end -}}
+        properties:
+          branch_icon: ""
+          fetch_status: true
+          untracked_modes:
+            /Users/marat-reymers/git/nebo: no # https://github.com/JanDeDobbeleer/oh-my-posh/issues/6094
+      - type: executiontime
+        style: diamond
+        leading_diamond: " "
+        foreground: darkGray
+        template: "{{ .FormattedMs }}"
+        properties:
+          always_enabled: true
+          style: austin
+      - type: text
+        style: diamond
+        leading_diamond: " "
+        foreground: darkGray
+        foreground_templates: [ "{{ if .Code -}} red {{- end }}" ]
+        template: "$"
+
+secondary_prompt:
+  template: "<red></>" # must be non-empty to disable secondary prompt

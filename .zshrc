@@ -62,7 +62,7 @@ source <(fzf --zsh)
 command -v oh-my-posh >/dev/null 2>&1 || brew install oh-my-posh
 export POSH_THEME="${XDG_DATA_HOME:-$HOME/.local/share}/omp.yml"
 [ ! -f "$POSH_THEME" ] && curl -o "$POSH_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
-[ "$TERM_PROGRAM" != "Apple_Terminal" ] && eval "$(oh-my-posh init zsh)"
+eval "$(oh-my-posh init zsh)"
 
 # Configure zsh-auto-notify
 AUTO_NOTIFY_THRESHOLD=30

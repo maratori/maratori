@@ -177,6 +177,13 @@ Go library to create a group of channels (publish/subscribe pattern)
 
 Go library to construct errors with fields for structured logging
 
+### [![nebius/gosdk][gosdk-img]][gosdk-url]
+
+[gosdk-img]: https://img.shields.io/badge/nebius%2Fgosdk-000?logo=github&logoColor=fff&style=for-the-badge
+[gosdk-url]: https://github.com/nebius/gosdk
+
+Go client library for interacting with [nebius.ai](https://nebius.ai) services
+
 
 ## 🩼 Useful gists
 

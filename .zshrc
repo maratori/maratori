@@ -1,6 +1,6 @@
 # Load/Install zap (plugin manager for zsh)
 ZAP_HOME="${XDG_DATA_HOME:-$HOME/.local/share}/zap"
-if [ ! -d "$ZAP_HOME" ]; then
+if [[ ! -d "$ZAP_HOME" ]]; then
   mkdir -p "$(dirname $ZAP_HOME)"
   git clone -b "release-v1" https://github.com/zap-zsh/zap.git "$ZAP_HOME"
 fi
@@ -19,10 +19,10 @@ plug Aloxaf/fzf-tab
 
 # Load completions
 autoload -Uz compinit
-if [ $(date +'%j') != $(stat -f '%Sm' -t '%j' ~/.zcompdump) ]; then
-  compinit
+if [[ "$(date +'%j')" != "$(stat -f '%Sm' -t '%j' ~/.zcompdump)" ]]; then
+  compinit    # run with security checks once a day
 else
-  compinit -C
+  compinit -C # skip security checks to improve performance
 fi
 
 # Use prefix while history search with up/down keys
@@ -46,30 +46,37 @@ setopt SHARE_HISTORY        # share history between all sessions
 
 # Completion styling
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
-zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 zstyle ':fzf-tab:complete:(-command-|-parameter-|-brace-parameter-|export|unset|expand):*' fzf-preview 'echo "${(P)word}"'
 zstyle ':fzf-tab:complete:brew-(install|uninstall|search|info):*-argument-rest' fzf-preview 'HOMEBREW_COLOR=1 brew info "$word"'
 zstyle ':fzf-tab:complete:*' fzf-preview 'x="${realpath#-*=}"; [ -f "$x" ] && bat "$x" -p --color always || [ -d "$x" ] && ls -A --color "$x"'
 
 # Install brew if necessary
-command -v brew >/dev/null 2>&1 || /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+if ! command -v brew &>/dev/null; then
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+fi
 
 # Install and enable fzf
-command -v fzf >/dev/null 2>&1 || brew install fzf
+if ! command -v fzf &>/dev/null; then
+  brew install fzf
+fi
 source <(fzf --zsh)
 
 # Enable Oh-My-Posh prompt
-command -v oh-my-posh >/dev/null 2>&1 || brew install oh-my-posh
-export POSH_THEME="${XDG_DATA_HOME:-$HOME/.local/share}/omp.yml"
-[ ! -f "$POSH_THEME" ] && curl -o "$POSH_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
+if ! command -v oh-my-posh &>/dev/null; then
+  brew install oh-my-posh
+fi
+export POSH_THEME="${XDG_CONFIG_HOME:-$HOME/.config}/omp.yml"
+if [[ ! -f "$POSH_THEME" ]] then
+  curl -fsSL -o "$POSH_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
+fi
 eval "$(oh-my-posh init zsh)"
 
 # Configure zsh-auto-notify
 AUTO_NOTIFY_THRESHOLD=30
-AUTO_NOTIFY_IGNORE+=(terraform)
+AUTO_NOTIFY_IGNORE+=(terraform vi)
 
 # Aliases
-alias cat="bat --paging=never"
+alias cat="bat --paging=never --plain"
 alias bb="bazel build"
 alias bt="bazel test"
 alias br="bazel run"

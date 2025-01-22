@@ -12,6 +12,9 @@ blocks:
         template: "{{ .Path }}"
         properties:
           style: full
+      - type: command
+        properties:
+          command: "git status > /dev/null 2>&1 &"
       - type: git
         style: diamond
         leading_diamond: " "
@@ -36,8 +39,6 @@ blocks:
         properties:
           branch_icon: ""
           fetch_status: true
-          untracked_modes:
-            /Users/marat-reymers/git/nebo: no # https://github.com/JanDeDobbeleer/oh-my-posh/issues/6094
       - type: executiontime
         style: diamond
         leading_diamond: " "

@@ -68,6 +68,7 @@ Also, I love debates about technology.
 [![Kafka][Kafka-img]][Kafka-url]
 [![Kubernetes][Kubernetes-img]][Kubernetes-url]
 [![Make][Make-img]][Make-url]
+[![Mermaid][Mermaid-img]][Mermaid-url]
 [![MyPy][MyPy-img]][MyPy-url]
 [![NumPy][NumPy-img]][NumPy-url]
 [![Pandas][Pandas-img]][Pandas-url]
@@ -96,6 +97,7 @@ Also, I love debates about technology.
 [Kafka-img]:           https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge
 [Kubernetes-img]:      https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge
 [Make-img]:            https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff&style=for-the-badge
+[Mermaid-img]:         https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=for-the-badge
 [MyPy-img]:            https://img.shields.io/badge/MyPy-2A6DB2?logo=python&logoColor=fff&style=for-the-badge
 [NumPy-img]:           https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge
 [Pandas-img]:          https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge
@@ -122,6 +124,7 @@ Also, I love debates about technology.
 [Kafka-url]:           https://kafka.apache.org/
 [Kubernetes-url]:      https://kubernetes.io/
 [Make-url]:            https://gnu.org/software/make/
+[Mermaid-url]:         https://mermaid.js.org/
 [MyPy-url]:            https://mypy.readthedocs.org/
 [NumPy-url]:           https://numpy.org/
 [Pandas-url]:          https://pandas.pydata.org/

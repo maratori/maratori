@@ -57,6 +57,7 @@ Also, I love debates about technology.
 ###### 🛠 Other (alphabetical order)
 
 [![Bash][Bash-img]][Bash-url]
+[![Bazel][Bazel-img]][Bazel-url]
 [![Dependabot][Dependabot-img]][Dependabot-url]
 [![Docker][Docker-img]][Docker-url]
 [![Flake8][Flake8-img]][Flake8-url]
@@ -88,6 +89,7 @@ Also, I love debates about technology.
 
 <!-- https://badges.pages.dev -->
 [Bash-img]:            https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge
+[Bazel-img]:           https://img.shields.io/badge/Bazel-43A047?logo=bazel&logoColor=fff&style=for-the-badge
 [Dependabot-img]:      https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff&style=for-the-badge
 [Docker-img]:          https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge
 [Flake8-img]:          https://img.shields.io/badge/Flake8-801010?style=for-the-badge
@@ -117,6 +119,7 @@ Also, I love debates about technology.
 [Zsh-img]:             https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge
 
 [Bash-url]:            https://gnu.org/software/bash/
+[Bazel-url]:           https://bazel.build/
 [Dependabot-url]:      https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
 [Docker-url]:          https://docker.com/
 [Flake8-url]:          https://flake8.pycqa.org/

@@ -79,56 +79,59 @@ Also, I love debates about technology.
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
 [![Terraform][Terraform-img]][Terraform-url]
 [![Selenium][Selenium-img]][Selenium-url]
+[![VictoriaMetrics][VictoriaMetrics-img]][VictoriaMetrics-url]
 
 
 <!-- https://badges.pages.dev -->
-[Bash-img]:           https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge
-[Dependabot-img]:     https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff&style=for-the-badge
-[Docker-img]:         https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge
-[Flake8-img]:         https://img.shields.io/badge/Flake8-801010?style=for-the-badge
-[GitHub Actions-img]: https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge
-[Golangci-lint-img]:  https://img.shields.io/badge/Golangci--lint-17AFC2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxzdHlsZT48IVtDREFUQVsuQntmaWxsLXJ1bGU6bm9uemVyb30uQ3tmaWxsOiM5N2ViZjV9XV0+PC9zdHlsZT48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjQ4LjYyMDg1NDYlIiB5MT0iNTAlIiB4Mj0iNTEuMTM2MDAxMyUiIHkyPSI1MCUiIGlkPSJBIj48c3RvcCBzdG9wLWNvbG9yPSIjOTdlYmY2IiBvZmZzZXQ9IjAlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzU5YzFjZSIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48ZyBzdHJva2U9IiMxNzgzOTEiIGNsYXNzPSJCIj48cGF0aCBkPSJNMTYuODE4IDU1Ljg5M2MuMTM1IDIuNzkgMi45MSAxLjQ5OCA0LjE3LjYyNyAxLjE5My0uODI4IDEuNTQyLS4xNCAxLjY0Ny0xLjc3M2wuMTMtMy4yMjVjLTEuODA0LS4xNjQtMy43NjguMjY3LTUuMjQ4IDEuMzQ2LS43NjIuNTU2LTIuMTkyIDIuMzMtLjcgMy4wMjUiIHN0cm9rZS13aWR0aD0iMS41IiBjbGFzcz0iQyIvPjxwYXRoIGQ9Ik0xNi44MTggNTUuODkzYy4yMzgtLjEzNCAxLjI2OC0uNjc2IDEuNDMtMSIgZmlsbD0iI2M2YjE5OCIvPjxnIHN0cm9rZS13aWR0aD0iMS41Ij48cGF0aCBkPSJNMjMuMjM1IDIyLjY3NmMtMTAuNjQtMy0yLjczLTE2LjU4IDUuODE2LTEwLjk5NWwtNS44MTUgMTAuOTk2LS4wMDEtLjAwMXpNNzAuNTEgMTAuNjYyYzguNDIzLTUuOTM0IDE2LjAzNCA3LjQ1NSA2LjI0NiAxMC44MjNMNzAuNTEgMTAuNjYyeiIgY2xhc3M9IkMiLz48cGF0aCBkPSJNNzkuMDExIDUyLjg5N2MuNjEzIDEwLjQ0MiAxLjk3IDIyLjUwNi0yLjg2IDMyLjE4NC01LjA4IDEwLjE4Mi0xNy43NzUgMTIuNzQzLTI4LjIzNSAxMi4zNjgtOC4yMTUtLjI5NS0xOC4xNC0yLjk4My0yMi43NzYtMTAuNTEzLTUuNDQtOC44MzQtMi44NjYtMjEuOTY4LTIuNDctMzEuNzk4LjQ2Ny0xMS42NDMtMy4xNDUtMjMuMzIuNjY4LTM0LjcxNCAzLjk1Ni0xMS44MiAxNC42MjQtMTQuNDkgMjYuMTA1LTE1LjQgMTAuNjUzIDAgMjAuNjQgMS41MjcgMjUuODQ1IDExLjc5NCA0LjY3MiAxMS41MDcgMy4wMSAyMy45MTYgMy43MjMgMzYuMDc5eiIgZmlsbD0iIzk3ZWJmNiIvPjwvZz48cGF0aCBkPSJNNTEuMzI0IDIxLjM2N0M1My4yMzcgMzIuNTIgNzEuNDEgMjkuNTcyIDY4LjggMTguMzIzYy0yLjM0LTEwLjA4Ny0xOC4xMTItNy4yOTUtMTcuNDc2IDMuMDQ0ek0yOS42MDYgMjMuMTdjMi40OCA5LjcxIDE3Ljk3NiA3LjIyNSAxNy4zOTItMi41MTUtLjctMTEuNjY1LTE5Ljc2Mi05LjQxNC0xNy4zOTIgMi41MTZ2LS4wMDF6bTIzLjkxMSAxMi41OGMuMDA4IDEuNDUuMzI4IDMuMDguMDU1IDQuNjItLjM3LjctMS4wOTMuNzc1LTEuNzE3IDEuMDU4YTIuNTMgMi41MyAwIDAgMS0xLjkzNS0xLjUxNGMtLjIyLTEuNzYuMDgzLTMuNDY2LjE0LTUuMjI3bDMuNDU3IDEuMDY0di0uMDAxeiIgZmlsbD0iI2ZmZiIvPjwvZz48ZyBmaWxsPSIjMTc4MzkxIiBjbGFzcz0iQiI+PGVsbGlwc2UgY3g9IjM0LjI4NCIgY3k9IjIxLjU4OCIgcng9IjIuNjE3IiByeT0iMi44NDMiLz48ZWxsaXBzZSBjeD0iNTYuMzA4IiBjeT0iMjAuODgiIHJ4PSIyLjU3MyIgcnk9IjIuODQzIi8+PC9nPjxnIHN0cm9rZT0iIzE3ODM5MSIgY2xhc3M9IkIiPjxwYXRoIGQ9Ik00Ni4wMzggMzUuNTkzYy0xLjE0IDIuNzc2LjYzNyA4LjMyNiAzLjczNSA0LjIzMi0uMjIyLTEuNzYuMDgzLTMuNDY1LjEzOC01LjIyN2wtMy44NzIuOTk1aC0uMDAxeiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik00Ni40MyAzMC4yNDdjLTIuMTMuMTgyLTMuODcgMi43Mi0yLjc2MiA0LjcyOCAxLjQ2NSAyLjY2IDQuNzM2LS4yMzUgNi43NzMuMDM2IDIuMzQ1LjA1IDQuMjY2IDIuNDg4IDYuMTUuNDQyIDIuMDkzLTIuMjc1LS45MDMtNC40OTItMy4yNDQtNS40ODJsLTYuOTE3LjI3N3YtLjAwMXoiIHN0cm9rZS13aWR0aD0iMS4yIiBjbGFzcz0iQyIvPjwvZz48cGF0aCBkPSJNNDYuMTYgMzAuMTM2Yy0uMTU2LTMuNjk4IDYuODczLTQuMTYgNy43MDMtMS4wNjUuODI4IDMuMDktNy4zNTYgMy44MDctNy43MDIgMS4wNjYtLjI3NS0yLjE5IDAgMCAwIDBsLS4wMDEtLjAwMXoiIGZpbGw9IiMxNjgzOTEiIGNsYXNzPSJCIi8+PHBhdGggZD0iTTQxIDM0Ljc0MnYyOS4wNjlMMjYuNDQ0IDc2IDEyIDYzLjgxMVYzNC43NGwxLjM3NC4wMjljNS44MDYgMCAxMC44MTctMS41NCAxMy4xNTQtMy43NjkgMi4zMzcgMi4yMjggNy4zNDggMy43NjkgMTMuMTU0IDMuNzY5LjQ0NCAwIC44ODQtLjAwOSAxLjMxOC0uMDI3eiIgZmlsbD0idXJsKCNBKSIgc3Ryb2tlPSIjMDM2ZDdhIi8+PC9nPjwvc3ZnPg==
-[Grafana-img]:        https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge
-[Helm-img]:           https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge
-[JUnit5-img]:         https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge
-[Kafka-img]:          https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge
-[Kubernetes-img]:     https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge
-[Make-img]:           https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff&style=for-the-badge
-[MyPy-img]:           https://img.shields.io/badge/MyPy-2A6DB2?logo=python&logoColor=fff&style=for-the-badge
-[NumPy-img]:          https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge
-[Pandas-img]:         https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge
-[Playwright-img]:     https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=for-the-badge
-[PostgreSQL-img]:     https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge
-[Prometheus-img]:     https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge
-[Protobuf-img]:       https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxwYXRoIGQ9Ik0xNy40OTMgODIuNDk4TDk5Ljk5OSAyOC4zNHYzNS4wMDNsLTgyLjUwNiA1NC4xNTh6IiBmaWxsPSIjZmY1NzIyIi8+PHBhdGggZD0iTTE3LjQ5MyAxMTcuNTAxbDgyLjUwNiA1NC4xNTh2LTM1LjAwM0wxNy40OTMgODIuNDk4eiIgZmlsbD0iIzAzYTlmNCIvPjxwYXRoIGQ9Ik0xODIuNTA2IDExNy41MDFMMTAwIDE3MS42NnYtMzUuMDAzbDgyLjUwNi01NC4xNTh6IiBmaWxsPSIjZmZlYjNiIi8+PHBhdGggZD0iTTE4Mi41MDYgODIuNDk4TDEwMCAyOC4zNHYzNS4wMDNsODIuNTA2IDU0LjE1OHoiIGZpbGw9IiMwMGU2NzYiLz48L3N2Zz4=
-[Pytest-img]:         https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge
-[RabbitMQ-img]:       https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge
-[Terraform-img]:      https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge
-[Selenium-img]:       https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
+[Bash-img]:            https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge
+[Dependabot-img]:      https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff&style=for-the-badge
+[Docker-img]:          https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge
+[Flake8-img]:          https://img.shields.io/badge/Flake8-801010?style=for-the-badge
+[GitHub Actions-img]:  https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge
+[Golangci-lint-img]:   https://img.shields.io/badge/Golangci--lint-17AFC2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxzdHlsZT48IVtDREFUQVsuQntmaWxsLXJ1bGU6bm9uemVyb30uQ3tmaWxsOiM5N2ViZjV9XV0+PC9zdHlsZT48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjQ4LjYyMDg1NDYlIiB5MT0iNTAlIiB4Mj0iNTEuMTM2MDAxMyUiIHkyPSI1MCUiIGlkPSJBIj48c3RvcCBzdG9wLWNvbG9yPSIjOTdlYmY2IiBvZmZzZXQ9IjAlIi8+PHN0b3Agc3RvcC1jb2xvcj0iIzU5YzFjZSIgb2Zmc2V0PSIxMDAlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48ZyBzdHJva2U9IiMxNzgzOTEiIGNsYXNzPSJCIj48cGF0aCBkPSJNMTYuODE4IDU1Ljg5M2MuMTM1IDIuNzkgMi45MSAxLjQ5OCA0LjE3LjYyNyAxLjE5My0uODI4IDEuNTQyLS4xNCAxLjY0Ny0xLjc3M2wuMTMtMy4yMjVjLTEuODA0LS4xNjQtMy43NjguMjY3LTUuMjQ4IDEuMzQ2LS43NjIuNTU2LTIuMTkyIDIuMzMtLjcgMy4wMjUiIHN0cm9rZS13aWR0aD0iMS41IiBjbGFzcz0iQyIvPjxwYXRoIGQ9Ik0xNi44MTggNTUuODkzYy4yMzgtLjEzNCAxLjI2OC0uNjc2IDEuNDMtMSIgZmlsbD0iI2M2YjE5OCIvPjxnIHN0cm9rZS13aWR0aD0iMS41Ij48cGF0aCBkPSJNMjMuMjM1IDIyLjY3NmMtMTAuNjQtMy0yLjczLTE2LjU4IDUuODE2LTEwLjk5NWwtNS44MTUgMTAuOTk2LS4wMDEtLjAwMXpNNzAuNTEgMTAuNjYyYzguNDIzLTUuOTM0IDE2LjAzNCA3LjQ1NSA2LjI0NiAxMC44MjNMNzAuNTEgMTAuNjYyeiIgY2xhc3M9IkMiLz48cGF0aCBkPSJNNzkuMDExIDUyLjg5N2MuNjEzIDEwLjQ0MiAxLjk3IDIyLjUwNi0yLjg2IDMyLjE4NC01LjA4IDEwLjE4Mi0xNy43NzUgMTIuNzQzLTI4LjIzNSAxMi4zNjgtOC4yMTUtLjI5NS0xOC4xNC0yLjk4My0yMi43NzYtMTAuNTEzLTUuNDQtOC44MzQtMi44NjYtMjEuOTY4LTIuNDctMzEuNzk4LjQ2Ny0xMS42NDMtMy4xNDUtMjMuMzIuNjY4LTM0LjcxNCAzLjk1Ni0xMS44MiAxNC42MjQtMTQuNDkgMjYuMTA1LTE1LjQgMTAuNjUzIDAgMjAuNjQgMS41MjcgMjUuODQ1IDExLjc5NCA0LjY3MiAxMS41MDcgMy4wMSAyMy45MTYgMy43MjMgMzYuMDc5eiIgZmlsbD0iIzk3ZWJmNiIvPjwvZz48cGF0aCBkPSJNNTEuMzI0IDIxLjM2N0M1My4yMzcgMzIuNTIgNzEuNDEgMjkuNTcyIDY4LjggMTguMzIzYy0yLjM0LTEwLjA4Ny0xOC4xMTItNy4yOTUtMTcuNDc2IDMuMDQ0ek0yOS42MDYgMjMuMTdjMi40OCA5LjcxIDE3Ljk3NiA3LjIyNSAxNy4zOTItMi41MTUtLjctMTEuNjY1LTE5Ljc2Mi05LjQxNC0xNy4zOTIgMi41MTZ2LS4wMDF6bTIzLjkxMSAxMi41OGMuMDA4IDEuNDUuMzI4IDMuMDguMDU1IDQuNjItLjM3LjctMS4wOTMuNzc1LTEuNzE3IDEuMDU4YTIuNTMgMi41MyAwIDAgMS0xLjkzNS0xLjUxNGMtLjIyLTEuNzYuMDgzLTMuNDY2LjE0LTUuMjI3bDMuNDU3IDEuMDY0di0uMDAxeiIgZmlsbD0iI2ZmZiIvPjwvZz48ZyBmaWxsPSIjMTc4MzkxIiBjbGFzcz0iQiI+PGVsbGlwc2UgY3g9IjM0LjI4NCIgY3k9IjIxLjU4OCIgcng9IjIuNjE3IiByeT0iMi44NDMiLz48ZWxsaXBzZSBjeD0iNTYuMzA4IiBjeT0iMjAuODgiIHJ4PSIyLjU3MyIgcnk9IjIuODQzIi8+PC9nPjxnIHN0cm9rZT0iIzE3ODM5MSIgY2xhc3M9IkIiPjxwYXRoIGQ9Ik00Ni4wMzggMzUuNTkzYy0xLjE0IDIuNzc2LjYzNyA4LjMyNiAzLjczNSA0LjIzMi0uMjIyLTEuNzYuMDgzLTMuNDY1LjEzOC01LjIyN2wtMy44NzIuOTk1aC0uMDAxeiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik00Ni40MyAzMC4yNDdjLTIuMTMuMTgyLTMuODcgMi43Mi0yLjc2MiA0LjcyOCAxLjQ2NSAyLjY2IDQuNzM2LS4yMzUgNi43NzMuMDM2IDIuMzQ1LjA1IDQuMjY2IDIuNDg4IDYuMTUuNDQyIDIuMDkzLTIuMjc1LS45MDMtNC40OTItMy4yNDQtNS40ODJsLTYuOTE3LjI3N3YtLjAwMXoiIHN0cm9rZS13aWR0aD0iMS4yIiBjbGFzcz0iQyIvPjwvZz48cGF0aCBkPSJNNDYuMTYgMzAuMTM2Yy0uMTU2LTMuNjk4IDYuODczLTQuMTYgNy43MDMtMS4wNjUuODI4IDMuMDktNy4zNTYgMy44MDctNy43MDIgMS4wNjYtLjI3NS0yLjE5IDAgMCAwIDBsLS4wMDEtLjAwMXoiIGZpbGw9IiMxNjgzOTEiIGNsYXNzPSJCIi8+PHBhdGggZD0iTTQxIDM0Ljc0MnYyOS4wNjlMMjYuNDQ0IDc2IDEyIDYzLjgxMVYzNC43NGwxLjM3NC4wMjljNS44MDYgMCAxMC44MTctMS41NCAxMy4xNTQtMy43NjkgMi4zMzcgMi4yMjggNy4zNDggMy43NjkgMTMuMTU0IDMuNzY5LjQ0NCAwIC44ODQtLjAwOSAxLjMxOC0uMDI3eiIgZmlsbD0idXJsKCNBKSIgc3Ryb2tlPSIjMDM2ZDdhIi8+PC9nPjwvc3ZnPg==
+[Grafana-img]:         https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge
+[Helm-img]:            https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge
+[JUnit5-img]:          https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge
+[Kafka-img]:           https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge
+[Kubernetes-img]:      https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge
+[Make-img]:            https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff&style=for-the-badge
+[MyPy-img]:            https://img.shields.io/badge/MyPy-2A6DB2?logo=python&logoColor=fff&style=for-the-badge
+[NumPy-img]:           https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge
+[Pandas-img]:          https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge
+[Playwright-img]:      https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=for-the-badge
+[PostgreSQL-img]:      https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge
+[Prometheus-img]:      https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge
+[Protobuf-img]:        https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxwYXRoIGQ9Ik0xNy40OTMgODIuNDk4TDk5Ljk5OSAyOC4zNHYzNS4wMDNsLTgyLjUwNiA1NC4xNTh6IiBmaWxsPSIjZmY1NzIyIi8+PHBhdGggZD0iTTE3LjQ5MyAxMTcuNTAxbDgyLjUwNiA1NC4xNTh2LTM1LjAwM0wxNy40OTMgODIuNDk4eiIgZmlsbD0iIzAzYTlmNCIvPjxwYXRoIGQ9Ik0xODIuNTA2IDExNy41MDFMMTAwIDE3MS42NnYtMzUuMDAzbDgyLjUwNi01NC4xNTh6IiBmaWxsPSIjZmZlYjNiIi8+PHBhdGggZD0iTTE4Mi41MDYgODIuNDk4TDEwMCAyOC4zNHYzNS4wMDNsODIuNTA2IDU0LjE1OHoiIGZpbGw9IiMwMGU2NzYiLz48L3N2Zz4=
+[Pytest-img]:          https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge
+[RabbitMQ-img]:        https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge
+[Terraform-img]:       https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge
+[Selenium-img]:        https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
+[VictoriaMetrics-img]: https://img.shields.io/badge/VictoriaMetrics-621773?logo=victoriametrics&logoColor=fff&style=for-the-badge
 
-[Bash-url]:           https://gnu.org/software/bash/
-[Dependabot-url]:     https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
-[Docker-url]:         https://docker.com/
-[Flake8-url]:         https://flake8.pycqa.org/
-[GitHub Actions-url]: https://github.com/features/actions
-[Golangci-lint-url]:  https://golangci-lint.run/
-[Grafana-url]:        https://grafana.com/
-[Helm-url]:           https://helm.sh/
-[JUnit5-url]:         https://junit.org/
-[Kafka-url]:          https://kafka.apache.org/
-[Kubernetes-url]:     https://kubernetes.io/
-[Make-url]:           https://gnu.org/software/make/
-[MyPy-url]:           https://mypy.readthedocs.org/
-[NumPy-url]:          https://numpy.org/
-[Pandas-url]:         https://pandas.pydata.org/
-[Playwright-url]:     https://playwright.dev/
-[PostgreSQL-url]:     https://postgresql.org/
-[Prometheus-url]:     https://prometheus.io/
-[Protobuf-url]:       https://developers.google.com/protocol-buffers
-[Pytest-url]:         https://pytest.org/
-[RabbitMQ-url]:       https://rabbitmq.com/
-[Terraform-url]:      https://terraform.io/
-[Selenium-url]:       https://selenium.dev/
+[Bash-url]:            https://gnu.org/software/bash/
+[Dependabot-url]:      https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
+[Docker-url]:          https://docker.com/
+[Flake8-url]:          https://flake8.pycqa.org/
+[GitHub Actions-url]:  https://github.com/features/actions
+[Golangci-lint-url]:   https://golangci-lint.run/
+[Grafana-url]:         https://grafana.com/
+[Helm-url]:            https://helm.sh/
+[JUnit5-url]:          https://junit.org/
+[Kafka-url]:           https://kafka.apache.org/
+[Kubernetes-url]:      https://kubernetes.io/
+[Make-url]:            https://gnu.org/software/make/
+[MyPy-url]:            https://mypy.readthedocs.org/
+[NumPy-url]:           https://numpy.org/
+[Pandas-url]:          https://pandas.pydata.org/
+[Playwright-url]:      https://playwright.dev/
+[PostgreSQL-url]:      https://postgresql.org/
+[Prometheus-url]:      https://prometheus.io/
+[Protobuf-url]:        https://developers.google.com/protocol-buffers
+[Pytest-url]:          https://pytest.org/
+[RabbitMQ-url]:        https://rabbitmq.com/
+[Terraform-url]:       https://terraform.io/
+[Selenium-url]:        https://selenium.dev/
+[VictoriaMetrics-url]: https://victoriametrics.com/
 
 
 ## 🕶️ Author

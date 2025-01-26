@@ -80,6 +80,7 @@ Also, I love debates about technology.
 [![Terraform][Terraform-img]][Terraform-url]
 [![Selenium][Selenium-img]][Selenium-url]
 [![VictoriaMetrics][VictoriaMetrics-img]][VictoriaMetrics-url]
+[![Zsh][Zsh-img]][Zsh-url]
 
 
 <!-- https://badges.pages.dev -->
@@ -107,6 +108,7 @@ Also, I love debates about technology.
 [Terraform-img]:       https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge
 [Selenium-img]:        https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
 [VictoriaMetrics-img]: https://img.shields.io/badge/VictoriaMetrics-621773?logo=victoriametrics&logoColor=fff&style=for-the-badge
+[Zsh-img]:             https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge
 
 [Bash-url]:            https://gnu.org/software/bash/
 [Dependabot-url]:      https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
@@ -132,6 +134,7 @@ Also, I love debates about technology.
 [Terraform-url]:       https://terraform.io/
 [Selenium-url]:        https://selenium.dev/
 [VictoriaMetrics-url]: https://victoriametrics.com/
+[Zsh-url]:             https://www.zsh.org/
 
 
 ## 🕶️ Author

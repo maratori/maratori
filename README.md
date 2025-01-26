@@ -80,6 +80,7 @@ Also, I love debates about technology.
 [![RabbitMQ][RabbitMQ-img]][RabbitMQ-url]
 [![Terraform][Terraform-img]][Terraform-url]
 [![Selenium][Selenium-img]][Selenium-url]
+[![UML][UML-img]][UML-url]
 [![VictoriaMetrics][VictoriaMetrics-img]][VictoriaMetrics-url]
 [![Zsh][Zsh-img]][Zsh-url]
 
@@ -109,6 +110,7 @@ Also, I love debates about technology.
 [RabbitMQ-img]:        https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge
 [Terraform-img]:       https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge
 [Selenium-img]:        https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge
+[UML-img]:             https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge
 [VictoriaMetrics-img]: https://img.shields.io/badge/VictoriaMetrics-621773?logo=victoriametrics&logoColor=fff&style=for-the-badge
 [Zsh-img]:             https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge
 
@@ -136,6 +138,7 @@ Also, I love debates about technology.
 [RabbitMQ-url]:        https://rabbitmq.com/
 [Terraform-url]:       https://terraform.io/
 [Selenium-url]:        https://selenium.dev/
+[UML-url]:             https://plantuml.com/
 [VictoriaMetrics-url]: https://victoriametrics.com/
 [Zsh-url]:             https://www.zsh.org/
 

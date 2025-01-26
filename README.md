@@ -65,6 +65,7 @@ Also, I love debates about technology.
 [![Grafana][Grafana-img]][Grafana-url]
 [![JUnit5][JUnit5-img]][JUnit5-url]
 [![Kafka][Kafka-img]][Kafka-url]
+[![Kubernetes][Kubernetes-img]][Kubernetes-url]
 [![Make][Make-img]][Make-url]
 [![MyPy][MyPy-img]][MyPy-url]
 [![NumPy][NumPy-img]][NumPy-url]
@@ -89,6 +90,7 @@ Also, I love debates about technology.
 [Grafana-img]:        https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge
 [JUnit5-img]:         https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge
 [Kafka-img]:          https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge
+[Kubernetes-img]:     https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge
 [Make-img]:           https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff&style=for-the-badge
 [MyPy-img]:           https://img.shields.io/badge/MyPy-2A6DB2?logo=python&logoColor=fff&style=for-the-badge
 [NumPy-img]:          https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge
@@ -111,6 +113,7 @@ Also, I love debates about technology.
 [Grafana-url]:        https://grafana.com/
 [JUnit5-url]:         https://junit.org/
 [Kafka-url]:          https://kafka.apache.org/
+[Kubernetes-url]:     https://kubernetes.io/
 [Make-url]:           https://gnu.org/software/make/
 [MyPy-url]:           https://mypy.readthedocs.org/
 [NumPy-url]:          https://numpy.org/

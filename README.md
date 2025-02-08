@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marat Reymers, a software engineer.  
+I am Marat Reimers, a software engineer.  
 Fanatic of linters, QA, and open-source.  
 Also, I love debates about technology.
 
@@ -21,7 +21,7 @@ Also, I love debates about technology.
 [Gmail-img]:    https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge
 
 [Telegram-url]: https://t.me/maratori
-[LinkedIn-url]: https://www.linkedin.com/in/marat-reymers
+[LinkedIn-url]: https://www.linkedin.com/in/marat-reimers
 [Gmail-url]:    mailto:marat.maratori+github@gmail.com
 
 ###### 🥷 Languages

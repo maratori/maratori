@@ -157,14 +157,14 @@ Also, I love debates about technology.
 [testpackage-stars-img]: https://img.shields.io/github/stars/maratori/testpackage?style=flat-square
 [testpackage-url]:       https://github.com/maratori/testpackage
 
-Go linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run/))
+Go linter that encourages to use a separate `_test` package (integrated into [golangci-lint](https://golangci-lint.run))
 
 ### [![testableexamples][testableexamples-img]][testableexamples-url]
 
 [testableexamples-img]: https://img.shields.io/badge/maratori%2Ftestableexamples-000?logo=github&logoColor=fff&style=for-the-badge
 [testableexamples-url]: https://github.com/maratori/testableexamples
 
-Go linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
+Go linter that checks if examples are testable and have an expected output (integrated into [golangci-lint](https://golangci-lint.run))
 
 ### [![pairedbrackets][pairedbrackets-img]][pairedbrackets-url]
 
@@ -177,7 +177,7 @@ Go linter that checks formatting of paired brackets
 ### [![idescriptive]][idescriptive-url]
 [idescriptive-img]: https://img.shields.io/badge/maratori%2Fidescriptive-000?logo=github&logoColor=fff&style=for-the-badge
 [idescriptive-url]: https://github.com/maratori/idescriptive
-Go linter that reports interfaces without named arguments (integrated into [golangci-lint](https://github.com/golangci/golangci-lint))
+Go linter that reports interfaces without named arguments (integrated into [golangci-lint](https://golangci-lint.run))
 -->
 
 <!--
@@ -211,7 +211,7 @@ Go client library for interacting with [nebius.ai](https://nebius.ai) services
 
 ## 🩼 Useful gists
 
-- [.golangci.yml ![Stars](https://img.shields.io/github/stars/gists/47a4d00457a92aa426dbd48a18776322?label=stars&style=flat-square)](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://github.com/golangci/golangci-lint)
+- [.golangci.yml ![Stars](https://img.shields.io/github/stars/gists/47a4d00457a92aa426dbd48a18776322?label=stars&style=flat-square)](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://golangci-lint.run)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test
 - [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in Go
 - [decimal.go](https://gist.github.com/maratori/15cf2a41d52ac6bd27dfced7922f0d28) - Function to normalize [decimal](https://github.com/shopspring/decimal) value, see [#280](https://github.com/shopspring/decimal/issues/280)

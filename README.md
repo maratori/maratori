@@ -151,6 +151,13 @@ Also, I love debates about technology.
 
 ## 🕶️ Author
 
+### [![golangci-lint-config][golangci-lint-config-img]][golangci-lint-config-url]
+
+[golangci-lint-config-img]: https://img.shields.io/badge/maratori%2Fgolangci--lint--config-000?logo=github&logoColor=fff&style=for-the-badge
+[golangci-lint-config-url]: https://github.com/maratori/golangci-lint-config
+
+Opinionated config for [golangci-lint](https://golangci-lint.run)
+
 ### [![testpackage][testpackage-img] ![stars][testpackage-stars-img]][testpackage-url]
 
 [testpackage-img]:       https://img.shields.io/badge/maratori%2Ftestpackage-000?logo=github&logoColor=fff&style=for-the-badge
@@ -211,7 +218,6 @@ Go client library for interacting with [nebius.ai](https://nebius.ai) services
 
 ## 🩼 Useful gists
 
-- [.golangci.yml ![Stars](https://img.shields.io/github/stars/gists/47a4d00457a92aa426dbd48a18776322?label=stars&style=flat-square)](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322) - Golden config for [golangci-lint](https://golangci-lint.run)
 - [clone_postgres_schema_test.go](https://gist.github.com/maratori/9105427ceab5a8ab6bd798c34235a66c) - Isolate postgres DB for each test
 - [db_in_transaction.go](https://gist.github.com/maratori/812049324580487f562027de0162d503) - Correct way to work with DB transactions in Go
 - [decimal.go](https://gist.github.com/maratori/15cf2a41d52ac6bd27dfced7922f0d28) - Function to normalize [decimal](https://github.com/shopspring/decimal) value, see [#280](https://github.com/shopspring/decimal/issues/280)

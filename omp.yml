@@ -1,6 +1,9 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json
+
 # This is my oh-my-posh theme
-version: 3
+version: 4
 final_space: true
+async: true
 blocks:
   - type: prompt
     alignment: left
@@ -10,11 +13,8 @@ blocks:
         style: plain
         foreground: cyan
         template: "{{ .Path }}"
-        properties:
+        options:
           style: full
-      - type: command
-        properties:
-          command: "git status > /dev/null 2>&1 &"
       - type: git
         style: diamond
         leading_diamond: " "
@@ -36,7 +36,7 @@ blocks:
             {{- print " " -}}
             <yellow><b>*</b></>
           {{- end -}}
-        properties:
+        options:
           branch_icon: ""
           fetch_status: true
       - type: executiontime
@@ -44,7 +44,7 @@ blocks:
         leading_diamond: " "
         foreground: darkGray
         template: "{{ .FormattedMs }}"
-        properties:
+        options:
           always_enabled: true
           style: austin
       - type: text

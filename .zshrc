@@ -65,11 +65,11 @@ source <(fzf --zsh)
 if ! command -v oh-my-posh &>/dev/null; then
   brew install oh-my-posh
 fi
-export POSH_THEME="${XDG_CONFIG_HOME:-$HOME/.config}/omp.yml"
-if [[ ! -f "$POSH_THEME" ]] then
-  curl -fsSL -o "$POSH_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
+OMP_THEME="${XDG_CONFIG_HOME:-$HOME/.config}/omp.yml"
+if [[ ! -f "$OMP_THEME" ]] then
+  curl -fsSL -o "$OMP_THEME" "https://raw.githubusercontent.com/maratori/maratori/refs/heads/main/omp.yml"
 fi
-eval "$(oh-my-posh init zsh)"
+eval "$(oh-my-posh init zsh --config $OMP_THEME)"
 
 # Configure zsh-auto-notify
 AUTO_NOTIFY_THRESHOLD=30
@@ -81,5 +81,4 @@ alias bb="bazel build"
 alias bt="bazel test"
 alias br="bazel run"
 alias gzl="bazel run //:gazelle"
-alias ba="bazel run //:gazelle api && bazel run //:gazelle api && bazel build //api/... && bazel run //api:public-preview; say completed"
-alias ta="bazel run //:gazelle api && bazel run //:gazelle api && bazel build //api/... && bazel test //api/... && bazel run //api:public-preview; say completed"
+alias k="kubectl"

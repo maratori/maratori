@@ -151,9 +151,10 @@ Also, I love debates about technology.
 
 ## 🕶️ Author
 
-### [![golangci-lint-config][golangci-lint-config-img]][golangci-lint-config-url]
+### [![golangci-lint-config][golangci-lint-config-img] ![stars][golangci-lint-config-stars-img]][golangci-lint-config-url]
 
 [golangci-lint-config-img]: https://img.shields.io/badge/maratori%2Fgolangci--lint--config-000?logo=github&logoColor=fff&style=for-the-badge
+[golangci-lint-config-stars-img]: https://img.shields.io/github/stars/maratori/golangci-lint-config?style=flat-square
 [golangci-lint-config-url]: https://github.com/maratori/golangci-lint-config
 
 Opinionated config for [golangci-lint](https://golangci-lint.run)

@@ -225,6 +225,6 @@ Go client library for interacting with [nebius.ai](https://nebius.ai) services
 - [config_reader.go](https://gist.github.com/maratori/d469f844eb91bdf1efa5d6c25687d792) - Config reader with the best API for Go
 - [testmain_test.go](https://gist.github.com/maratori/425facf6450dad263ed990dbeb25bca6) - TestMain to print logs (colapsed) if test failed
 - [test_clock.go](https://gist.github.com/maratori/02bbdf2d4cd5310b8b78d36f446e4452) - Mockable time (clock) for Go
-- [golang-mocks.md ![Stars](https://img.shields.io/github/stars/gists/8772fe158ff705ca543a0620863977c2?label=stars&style=flat-square)](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of Go mocking libraries
+- [golang-mocks.md ![Stars](https://img.shields.io/github/gist/stars/8772fe158ff705ca543a0620863977c2?label=stars&style=flat-square)](https://gist.github.com/maratori/8772fe158ff705ca543a0620863977c2) - Comparison table of Go mocking libraries
 - [wait_for.go](https://gist.github.com/maratori/010bfbf05639aa3a5ba832cdd75320ec) - `func WaitFor()` the better alternative for `assert.Eventually()`
 - [wait_for.py](https://gist.github.com/maratori/118d1018893b367be8d35ccda996d3af) - Helper function for Python tests to get rid of `time.sleep`

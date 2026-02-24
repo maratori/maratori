@@ -4,6 +4,7 @@
 version: 4
 final_space: true
 async: true
+streaming: 100
 blocks:
   - type: prompt
     alignment: left

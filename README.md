@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Marat Reimers, a software engineer.  
-Fanatic of linters, QA, and open-source.  
+A fanatic of linters, QA, and open source.  
 Also, I love debates about technology.
 
 [![GitHub stats][GitHub stats-img]][GitHub stats-url]
@@ -22,7 +22,7 @@ Also, I love debates about technology.
 
 [Telegram-url]: https://t.me/maratori
 [LinkedIn-url]: https://www.linkedin.com/in/marat-reimers
-[Gmail-url]:    mailto:marat.maratori+github@gmail.com
+[Gmail-url]:    mailto:marat.reimers+github@gmail.com
 
 ###### 🥷 Languages
 
